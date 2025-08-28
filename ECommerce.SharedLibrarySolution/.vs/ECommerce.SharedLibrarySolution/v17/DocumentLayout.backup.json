@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38ED450E-520C-42B2-899D-AFB1B72A0D41}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|d:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38ED450E-520C-42B2-899D-AFB1B72A0D41}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38ED450E-520C-42B2-899D-AFB1B72A0D41}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|d:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38ED450E-520C-42B2-899D-AFB1B72A0D41}|ECommerce.SharedLibrary\\ECommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "ToolTip": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "RelativeToolTip": "ECommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T01:53:08.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JWTAuthenticationScheme.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "RelativeToolTip": "ECommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T03:39:39.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ListenToOnlyApiGateway.cs",
               "DocumentMoniker": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
               "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
@@ -92,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GlobalException.cs",
               "DocumentMoniker": "D:\\working\\personal\\programming\\learning\\dotnet\\e-commerce-microservice\\ECommerce.SharedLibrarySolution\\ECommerce.SharedLibrary\\Middleware\\GlobalException.cs",
               "RelativeDocumentMoniker": "ECommerce.SharedLibrary\\Middleware\\GlobalException.cs",
